@@ -8,3 +8,6 @@ python-dotenv>=1.0
 requests>=2.31
 # Testes automatizados (opcional)
 pytest>=8.0
+# Interface web do módulo 05 (também é o que o Dockerfile executa)
+fastapi>=0.115
+uvicorn>=0.30
