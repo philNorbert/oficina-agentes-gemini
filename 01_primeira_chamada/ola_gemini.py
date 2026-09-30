@@ -1,5 +1,5 @@
 """
-MÓDULO 1.1 — Sua primeira chamada à Gemini API.
+MÓDULO 1.1 — Sua primeira chamada à Gemini API. 
 
 Rode com:  python 01_primeira_chamada/ola_gemini.py
 
